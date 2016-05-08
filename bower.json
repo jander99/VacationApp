@@ -1,6 +1,6 @@
 {
   "version": "0.0.0",
-  "name": "vacation-app",
+  "name": "VacationApp",
   "appPath": "src/main/webapp/",
   "testPath": "src/test/javascript/spec",
   "dependencies": {
